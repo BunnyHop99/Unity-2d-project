@@ -3,16 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - coin
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - grass
   - Water
   - UI
-  - 
-  - 
+  - ground
+  - coin
   - 
   - 
   - 
@@ -40,4 +41,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2544835399
+    locked: 0
+  - name: ground stuff
+    uniqueID: 1681963105
+    locked: 0
+  - name: grass
+    uniqueID: 1954298043
+    locked: 0
+  - name: player
+    uniqueID: 3303843491
+    locked: 0
+  - name: indicator
+    uniqueID: 4124088221
     locked: 0
